@@ -15,6 +15,10 @@ fp-info-cache
 *.kicad_sch-bak
 _autosave-*
 
+# KiCad generated fabrication outputs
+gerbers/
+clean_gerbers/
+
 # Editor and temporary files
 *.swp
 *.swo
