@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# KiCad local state and locks
+*.kicad_prl
+*.lck
+~*.lck
+fp-info-cache
+
+# KiCad backups and autosaves
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
